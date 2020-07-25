@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alicia-M-M/nucamp-bootstrap-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alicia-M-M/nucamp-bootstrap-course/issues"
+  },
+  "homepage": "https://github.com/Alicia-M-M/nucamp-bootstrap-course#readme"
 }
